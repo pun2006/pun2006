@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @pun2006
-- 👀 I’m interested in YII/PHP
-- 🌱 I’m currently learning Angular
+- 👀 I’m interested in YII/PHP/css/html/js/jquery.
 - 💞️ I’m looking to collaborate on some projects.
 - 📫 mailto:bayvas@mail.ru.
 
